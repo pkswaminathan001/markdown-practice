@@ -46,7 +46,7 @@ My GitHub profile: [PR Swaminathan](https://github.com/pkswaminathan001)
 
 ## Code Blocks
 
-This is an inline code: `console.log("Hello World")`
+This is inline code: `console.log("Hello World")`
 
 This is a code block:
 
