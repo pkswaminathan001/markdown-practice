@@ -1,1 +1,1 @@
-# markdown-practice
+ai-email-campaign-generator
